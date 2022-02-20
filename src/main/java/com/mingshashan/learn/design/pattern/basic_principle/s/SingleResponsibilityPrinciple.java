@@ -1,4 +1,4 @@
-package com.mingshashan.learn.design.pattern;
+package com.mingshashan.learn.design.pattern.basic_principle.s;
 
 public class SingleResponsibilityPrinciple {
 
